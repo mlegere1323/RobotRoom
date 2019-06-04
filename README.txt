@@ -1,3 +1,4 @@
+Michael Legere
 Final Project
 COS 452, Computer Graphics
 University of Southern Maine
