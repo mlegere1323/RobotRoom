@@ -8,7 +8,7 @@ This project is a simple room scene with a table, controllable robot with arm,
 and some interesting lighting effects. Also, there's a sphere mirror on the table
 that animates on command in a circle.
 
-Object collision (no including detection of walls in the scene) 
+Object collision (not including detection of walls in the scene) 
 was not achieved successfully so as to allow the robot to manipulate objects in 
 the 3d scene, but a basic framework exists for it to be done.
 
