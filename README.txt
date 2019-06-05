@@ -12,10 +12,14 @@ Object collision (not including detection of walls in the scene)
 was not achieved successfully so as to allow the robot to manipulate objects in 
 the 3d scene, but a basic framework exists for it to be done.
 
-The only limiting of the robot's arm motion is in the forearm's grabbers. It
-would seem for realistic rotation of the robots arm, one would need extensive 
-study in inverse kinematics, something which could've been done with less time
-contsraints.
+There is realistic limiting of the robot's arm motion in the forearm's grabbers, but 
+otherwise, the arms can rotate unrealistically. It would seem for realistic 
+rotation of the robots arm, I'd need more study in inverse kinematics, something 
+which could've been done with less time contsraints.
+
+TO BEGIN: 
+Note the controls displayed in the GUI; press "e" to engage the robot arm for use. 
+Movement keys are w, s, and the arrow keys.
 
 EXTRA:
 Also included is a sphere with a procedurally generated texture using 
