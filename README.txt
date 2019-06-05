@@ -23,8 +23,9 @@ Movement keys are w, s, and the arrow keys.
 
 EXTRA:
 Also included is a sphere with a procedurally generated texture using 
-perlin/simplex noise. See code comments for more details (specifically
-do a CTRL-F on "perlin" and uncomment in animation function and elsewhere).
+perlin/simplex noise. See code comments for more details (specifically,
+do a CTRL-F on "perlin" and uncomment the related code in the animation function 
+and elsewhere).
 
 Spotlights (R,G, and B) will follow the robot when the mirror sphere is 
 animating, otherwise they will move to random locations on the floor at
